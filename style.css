@@ -6,7 +6,7 @@ body {
 }
 
 a {
-    color:cyan;
+    color:rgb(46, 91, 255);
 }
 
 .logo {
@@ -177,7 +177,6 @@ footer {
 
 .holder {
     background: #ffffff;
-    width: 100%;
     border-radius: 12px;
   }
   /* Styles for text box with more button */
