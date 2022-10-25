@@ -8,12 +8,14 @@ body {
 a {
   outline: none;
   text-decoration: none;
+  color:rgb(255, 255, 255);
 }
 a:visited {
   text-decoration: none;
   outline: none;
   color:rgb(255, 255, 255);
 }
+
 .description_content a {
   color:rgb(45, 0, 158);
   font-weight: bold;
