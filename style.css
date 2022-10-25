@@ -28,6 +28,7 @@ header {
   padding: 10px;
   background: rgb(60,136,255);
   height: 120px;
+  min-width: 350px;
 }
 
 .header_section {
@@ -132,9 +133,10 @@ h2 {
 .title {
     grid-area: title;
     font-weight: bold;
-    font-size: 24px;
+    font-size: 1.4em;
     margin-top: 20px;
     margin-left: 30px;
+    margin-right: 5px;
 
 }
 
@@ -170,7 +172,7 @@ h2 {
 
 .note {
     background-color: #FFF5D2;
-    color:#626262;
+    color:#000000;
     border-radius: 12px;
     min-width: 350px;
     padding-top: 0.5px;
@@ -202,6 +204,7 @@ footer {
     vertical-align: middle;
     padding-top: 1px;
     padding-bottom: 10px;
+    min-width: 350px;
 }
 
 .holder {
