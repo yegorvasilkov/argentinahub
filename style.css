@@ -65,6 +65,10 @@ h2 {
     margin-top: -15px;
 }
 
+h3 {
+  padding-right: 10px; 
+}
+
 h4 {
  margin-right: 10px; 
 }
@@ -161,6 +165,7 @@ h4 {
 .description {
     grid-area: description;
     border-top: 1px solid #F1F1F1;
+    min-width: 380px;
 }
 
 .description_title {
@@ -172,6 +177,7 @@ h4 {
     padding-bottom: 20px;
     padding-right: 30px;
     line-height: 1.5;
+    min-width: 275px;
 }
 
 .note {
@@ -201,6 +207,12 @@ h4 {
 
 
 footer {
+    position: relative;
+    display: block;
+    left: 0;
+    min-width: 420px;
+    width: 100%;
+
     background-color: black;
     color: #8C8C8C;
     height: 40px;
@@ -208,7 +220,6 @@ footer {
     vertical-align: middle;
     padding-top: 1px;
     padding-bottom: 10px;
-    min-width: 400px;
 }
 
 .holder {
