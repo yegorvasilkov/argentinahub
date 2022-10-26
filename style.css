@@ -28,7 +28,7 @@ header {
   padding: 10px;
   background: rgb(60,136,255);
   height: 120px;
-  min-width: 350px;
+  min-width: 400px;
 }
 
 .header_section {
@@ -204,7 +204,7 @@ footer {
     vertical-align: middle;
     padding-top: 1px;
     padding-bottom: 10px;
-    min-width: 350px;
+    min-width: 400px;
 }
 
 .holder {
