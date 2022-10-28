@@ -205,6 +205,14 @@ h4 {
     width: 350px;
 }
 
+.image_block {
+   border-radius: 12px 12px 0 0;
+   object-fit: contain;
+   width: 200%;
+   max-width: 830px;  
+   margin: 0 auto;
+}
+
 
 footer {
     position: relative;
